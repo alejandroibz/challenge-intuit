@@ -1,0 +1,193 @@
+{
+	"info": {
+		"_postman_id": "27ce2ce0-c3a4-4097-b0dd-fad9ceaa3f0a",
+		"name": "Challenge",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19989608"
+	},
+	"item": [
+		{
+			"name": "Cliente/GetAll",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:44333/api/Cliente/GetAll?page=1&pageSize=10",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44333",
+					"path": [
+						"api",
+						"Cliente",
+						"GetAll"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "pageSize",
+							"value": "10"
+						}
+					]
+				},
+				"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:44333/api/Cliente/GetAll?page=1&pageSize=10' \\\r\n  -H 'accept: */*'"
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente/Create",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"ALejandro\",\r\n  \"lastName\": \"Ibañez\",\r\n  \"email\": \"alejandro.ibanez@intuit.com\",\r\n  \"cellphone\": \"3834304799\",\r\n  \"cuit\": \"20390153652\",\r\n  \"address\": \"Calle Siempre Viva 999\",\r\n  \"birthdate\": \"1996-04-23T00:57:23.152Z\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44333/api/Cliente/Create",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44333",
+					"path": [
+						"api",
+						"Cliente",
+						"Create"
+					]
+				},
+				"description": "Generated from cURL: curl -X 'POST' \\\r\n  'https://localhost:44333/api/Cliente/Create' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"name\": \"ALejandro\",\r\n  \"lastName\": \"Ibañez\",\r\n  \"email\": \"alejandro.ibanez@intuit.com\",\r\n  \"cellphone\": \"3834304799\",\r\n  \"cuit\": \"20390153652\",\r\n  \"address\": \"Calle Siempre Viva 999\",\r\n  \"birthdate\": \"1996-04-23T00:57:23.152Z\"\r\n}'"
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente/GetById",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:44333/api/Cliente/GetById?id=6",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44333",
+					"path": [
+						"api",
+						"Cliente",
+						"GetById"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "6"
+						}
+					]
+				},
+				"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:44333/api/Cliente/GetById?id=6' \\\r\n  -H 'accept: */*'"
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente/Update",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"clientId\": 6,\r\n  \"name\": \"Omar Alejandro\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44333/api/Cliente/Update",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44333",
+					"path": [
+						"api",
+						"Cliente",
+						"Update"
+					]
+				},
+				"description": "Generated from cURL: curl -X 'PUT' \\\r\n  'https://localhost:44333/api/Cliente/Update' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"clientId\": 6,\r\n  \"name\": \"Omar Alejandro\"\r\n}'"
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente/Delete",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:44333/api/Cliente/Delete?id=6",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44333",
+					"path": [
+						"api",
+						"Cliente",
+						"Delete"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "6"
+						}
+					]
+				},
+				"description": "Generated from cURL: curl -X 'DELETE' \\\r\n  'https://localhost:44333/api/Cliente/Delete?id=6' \\\r\n  -H 'accept: */*'"
+			},
+			"response": []
+		}
+	]
+}

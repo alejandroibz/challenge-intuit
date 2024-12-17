@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\CreateClientCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\logs\\log-20241212.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:logs\\log-20241212.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\logs\\log-20241215.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:logs\\log-20241215.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetClientByIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetAllClientsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\UpdateClientCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\DeleteClientCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\UpdateClientCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetAllClientsQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetClientByIdQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Shared\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Shared\\TResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Validators\\CreateClientValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Validators\\UpdateClientValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Domain\\Entities\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Domain\\Interfaces\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Migrations\\20241212181615_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Migrations\\ClienteDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Persistence\\ClienteDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\UpdateClientHandlerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\GetClientByIdHandlerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\GetAllClientsHandlerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\DeleteClientHandlerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Persistence\\Repositories\\ClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\CreateClientHandlerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Domain\\Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test.csproj",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Test\\Test.csproj",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Test.csproj",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Test\\Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T01:45:28.502Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateClientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\UpdateClientCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\UpdateClientCommand.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\UpdateClientCommand.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\UpdateClientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:56:15.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteClientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\DeleteClientCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\DeleteClientCommand.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\DeleteClientCommand.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\DeleteClientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:17:36.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateClientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\CreateClientCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\CreateClientCommand.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\CreateClientCommand.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\CreateClientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:57:10.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetClientByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetClientByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetClientByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetClientByIdQueryHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetClientByIdQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:00:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:05:05.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T16:15:38.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateClientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:58:28.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteClientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:18:21.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:00:35.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllClientsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetAllClientsQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetAllClientsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetAllClientsQueryHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\GetAllClientsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:06:15.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateClientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\UpdateClientCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\UpdateClientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\UpdateClientCommandHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\UpdateClientCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:57:51.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllClientsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetAllClientsQuery.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetAllClientsQuery.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetAllClientsQuery.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetAllClientsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:05:34.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetClientByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetClientByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetClientByIdQuery.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetClientByIdQuery.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Queries\\GetClientByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:57:47.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Shared\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Shared\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Shared\\MappingProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Shared\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:20:07.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TResponse.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Shared\\TResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Shared\\TResponse.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Shared\\TResponse.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Shared\\TResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:17:49.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateClientValidator.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Validators\\CreateClientValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Validators\\CreateClientValidator.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Validators\\CreateClientValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Validators\\CreateClientValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:54:40.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateClientValidator.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Validators\\UpdateClientValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Validators\\UpdateClientValidator.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Validators\\UpdateClientValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Validators\\UpdateClientValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:05:47.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:12:10.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Domain\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Domain\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Domain\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Domain\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:15:07.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241212181615_init.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Migrations\\20241212181615_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Migrations\\20241212181615_init.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Migrations\\20241212181615_init.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Migrations\\20241212181615_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:16:15.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClienteDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Migrations\\ClienteDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Migrations\\ClienteDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Migrations\\ClienteDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Migrations\\ClienteDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:45:54.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClienteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Persistence\\ClienteDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Persistence\\ClienteDbContext.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Persistence\\ClienteDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Persistence\\ClienteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:37:40.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T15:11:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateClientHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\UpdateClientHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\UpdateClientHandlerTests.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\UpdateClientHandlerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\UpdateClientHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:35:58.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetClientByIdHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\GetClientByIdHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\GetClientByIdHandlerTests.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\GetClientByIdHandlerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\GetClientByIdHandlerTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:02:48.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetAllClientsHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\GetAllClientsHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\GetAllClientsHandlerTests.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\GetAllClientsHandlerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\GetAllClientsHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:32:23.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteClientHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\DeleteClientHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\DeleteClientHandlerTests.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\DeleteClientHandlerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\DeleteClientHandlerTests.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:36:13.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Persistence\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Persistence\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Infrastructure\\Persistence\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Infrastructure\\Persistence\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:57:40.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateClientHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\CreateClientHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\CreateClientHandlerTests.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Test\\Handlers\\CreateClientHandlerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Test\\Handlers\\CreateClientHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:41:43.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T16:17:24.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "log-20241212.txt",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\logs\\log-20241212.txt",
+              "RelativeDocumentMoniker": "logs\\log-20241212.txt",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\logs\\log-20241212.txt",
+              "RelativeToolTip": "logs\\log-20241212.txt",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T22:49:28.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "log-20241215.txt",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\logs\\log-20241215.txt",
+              "RelativeDocumentMoniker": "logs\\log-20241215.txt",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\logs\\log-20241215.txt",
+              "RelativeToolTip": "logs\\log-20241215.txt",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T00:27:01.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Application.csproj",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T15:10:55.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T15:11:03.482Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
