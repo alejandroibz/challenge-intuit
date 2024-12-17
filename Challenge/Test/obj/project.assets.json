@@ -6385,11 +6385,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\coder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Test\\obj\\",
+      "outputPath": "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\coder\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6408,8 +6408,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Application\\Application.csproj"
+            "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Application\\Application.csproj"
             }
           }
         }

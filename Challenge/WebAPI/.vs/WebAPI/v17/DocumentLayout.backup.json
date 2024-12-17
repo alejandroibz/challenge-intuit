@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -16,10 +20,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC49DBC-3B68-48C6-B4D7-F9BD60ED8019}|WebAPI.csproj|c:\\users\\coder\\documents\\pruebas\\challenge-intuit\\challenge\\webapi\\logs\\log-20241212.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -121,7 +121,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 28,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Document",
@@ -218,30 +218,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DeleteClientCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
-              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
-              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T22:18:21.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateClientCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
-              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
-              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:58:28.52Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "UpdateClientCommand.cs",
               "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\UpdateClientCommand.cs",
@@ -266,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateClientCommand.cs",
               "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\CreateClientCommand.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\CreateClientCommand.cs",
@@ -274,8 +250,7 @@
               "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Commands\\CreateClientCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:57:10.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T20:57:10.139Z"
             },
             {
               "$type": "Document",
@@ -292,19 +267,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Controllers\\ClienteController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:00:35.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -314,6 +276,55 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T16:05:05.4Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T16:15:38.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateClientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\CreateClientCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:58:28.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteClientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\challenge\\Challenge\\Application\\Features\\Cliente\\Handler\\DeleteClientCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:18:21.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:00:35.316Z"
             },
             {
               "$type": "Document",
@@ -557,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -566,18 +577,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-12T16:17:24.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\WebAPI\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-12T16:15:38.445Z"
             },
             {
               "$type": "Document",

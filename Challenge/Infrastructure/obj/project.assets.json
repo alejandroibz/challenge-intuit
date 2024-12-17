@@ -5026,11 +5026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\coder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\coder\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5049,8 +5049,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\coder\\Documents\\PRUEBAS\\challenge-intuit\\Challenge\\Domain\\Domain.csproj"
+            "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\coder\\Documents\\challenge-intuit\\Challenge\\Domain\\Domain.csproj"
             }
           }
         }
